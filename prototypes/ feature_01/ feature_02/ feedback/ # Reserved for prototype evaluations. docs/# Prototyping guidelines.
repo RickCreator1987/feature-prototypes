@@ -1,0 +1,10 @@
+## Development Workflow
+- Clone the repository: `git clone REPO_URL`.
+- Add your prototype to `/prototypes`.
+- Open a pull request for review.
+
+## Feedback
+We welcome your thoughts and comments to iterate and improve.
+
+## License
+[MIT License](LICENSE)
